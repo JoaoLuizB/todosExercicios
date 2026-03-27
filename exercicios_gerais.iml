@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/NelioExercicio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exe_estSeq" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exe_estCon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exe_estRep" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/eq_seg_grau" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exe_For" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exeProObj" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exe_Banco" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/exe_Vector" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
