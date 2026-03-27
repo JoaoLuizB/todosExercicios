@@ -1,3 +1,5 @@
+package NelioExercicio;
+
 import java.util.Scanner;
 import java.util.Locale;
 
@@ -11,8 +13,8 @@ public class MainExe2 {
         double total, intervalo;
         String quadrante;
         
-        //Exercício 1
-        System.out.print("Digite um número para saber se é POSITIVO ou NEGATIVO: ");
+        //Exercício 1Á
+        System.out.print("Digite um número para saber se é BRABOOOOOOOOOOOOOOOOO ou NEGATIVO: ");
         num1 = sc.nextInt();
         if (num1 > 0) {
             System.out.println("POSITIVO");
